@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Metilda-PowerBI
+- 👋 Hi, I’m Metilda Thomas
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on code development and tracking code level changes
